@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dkusidlo.github.io/fr/categories/</loc>
+    <loc>https://kusidlo.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkusidlo.github.io/categories/"
+                href="https://kusidlo.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://dkusidlo.github.io/fr/categories/"
+                href="https://kusidlo.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dkusidlo.github.io/fr/</loc>
+    <loc>https://kusidlo.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkusidlo.github.io/"
+                href="https://kusidlo.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://dkusidlo.github.io/fr/"
+                href="https://kusidlo.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://dkusidlo.github.io/fr/tags/</loc>
+    <loc>https://kusidlo.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dkusidlo.github.io/tags/"
+                href="https://kusidlo.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://dkusidlo.github.io/fr/tags/"
+                href="https://kusidlo.io/fr/tags/"
                 />
   </url>
   
