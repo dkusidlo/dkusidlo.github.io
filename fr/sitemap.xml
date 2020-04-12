@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kusidlo.io/fr/categories/</loc>
+    <loc>//kusidlo.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kusidlo.io/categories/"
+                href="//kusidlo.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kusidlo.io/fr/categories/"
+                href="//kusidlo.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://kusidlo.io/fr/</loc>
+    <loc>//kusidlo.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kusidlo.io/"
+                href="//kusidlo.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kusidlo.io/fr/"
+                href="//kusidlo.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://kusidlo.io/fr/tags/</loc>
+    <loc>//kusidlo.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kusidlo.io/tags/"
+                href="//kusidlo.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kusidlo.io/fr/tags/"
+                href="//kusidlo.io/fr/tags/"
                 />
   </url>
   
